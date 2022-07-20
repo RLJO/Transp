@@ -1,0 +1,4 @@
+[submodule "RLJO/Floraison"]
+	path = RLJO/Floraison
+	url = git@github.com:RLJO/Floraison.git
+	branch = app-l10n_tunisia_payroll
